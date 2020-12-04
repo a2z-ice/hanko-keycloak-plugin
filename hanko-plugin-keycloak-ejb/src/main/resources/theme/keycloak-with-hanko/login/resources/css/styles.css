@@ -1,0 +1,20 @@
+.flexrow {
+    display: flex;
+    flex-direction: row;
+    height: 190px;
+    align-items: center;
+}
+
+.imgwrapper {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.or {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #d0d0d0;
+    line-height: 0px;
+    margin: 10px 0 20px;
+}

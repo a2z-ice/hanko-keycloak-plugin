@@ -1,0 +1,14 @@
+$primary-color: #002b52;
+$background-color: #f0f0f0;
+$container-color: #fff;
+$navbar-color: #fff;
+$error-color: red;
+$primary-button-color: #002b52 !default;
+
+@import 'main';
+
+.navbar-logo {
+  width: 96px;
+  height: 36px;
+  margin-right: 20px;
+}
